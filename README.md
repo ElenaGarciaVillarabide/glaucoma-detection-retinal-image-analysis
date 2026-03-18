@@ -67,7 +67,7 @@ Through this project, I strengthened my skills in:
 - deployment of simple machine learning interfaces
 
 ## Notes
-This repository includes the source code and supporting materials related to the project. The dataset may not be included in the repository if it is subject to usage restrictions.
+This repository includes the source code and supporting materials related to the project. The dataset is not be included in the repository.
 
 ## Author
 Elena García Villarabide
